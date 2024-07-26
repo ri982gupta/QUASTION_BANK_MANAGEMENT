@@ -1,0 +1,15 @@
+C:\QUESTION_BANK\bin\Debug\net7.0\QUESTION_BANK.exe
+C:\QUESTION_BANK\bin\Debug\net7.0\QUESTION_BANK.deps.json
+C:\QUESTION_BANK\bin\Debug\net7.0\QUESTION_BANK.runtimeconfig.json
+C:\QUESTION_BANK\bin\Debug\net7.0\QUESTION_BANK.dll
+C:\QUESTION_BANK\bin\Debug\net7.0\QUESTION_BANK.pdb
+C:\QUESTION_BANK\obj\Debug\net7.0\QUESTION_BANK.csproj.AssemblyReference.cache
+C:\QUESTION_BANK\obj\Debug\net7.0\QUESTION_BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\QUESTION_BANK\obj\Debug\net7.0\QUESTION_BANK.AssemblyInfoInputs.cache
+C:\QUESTION_BANK\obj\Debug\net7.0\QUESTION_BANK.AssemblyInfo.cs
+C:\QUESTION_BANK\obj\Debug\net7.0\QUESTION_BANK.csproj.CoreCompileInputs.cache
+C:\QUESTION_BANK\obj\Debug\net7.0\QUESTION_BANK.dll
+C:\QUESTION_BANK\obj\Debug\net7.0\refint\QUESTION_BANK.dll
+C:\QUESTION_BANK\obj\Debug\net7.0\QUESTION_BANK.pdb
+C:\QUESTION_BANK\obj\Debug\net7.0\QUESTION_BANK.genruntimeconfig.cache
+C:\QUESTION_BANK\obj\Debug\net7.0\ref\QUESTION_BANK.dll
